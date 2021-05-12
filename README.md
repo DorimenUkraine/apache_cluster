@@ -1,5 +1,7 @@
 # Apache Cluster for Big Data
 
+https://www.youtube.com/watch?v=UfvorMbapEA&ab_channel=DEorDIE
+
 > Репозиторий для описания процесса установки кластера для продуктов Apache Big Data
 
 Карта развития данного репозитория
